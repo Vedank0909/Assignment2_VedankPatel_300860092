@@ -1,0 +1,8 @@
+ <% if(typeof displayName == 'string' && displayName) { %>
+          <% if(title == "Contacts") { %>
+          <li class="active"><a href="/contacts"><i class="fa fa-gamepad fa-lg">
+          </i> Contacts List</a></li>
+          <% } else { %>
+            <li><a href="/contacts"><i class="fa fa-gamepad fa-lg">
+            </i> Contacts List</a></li>
+          <% } %>
