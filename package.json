@@ -27,7 +27,7 @@
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vedank0909/V_assignmnet1.git"
+    "url": "git+https://github.com/Vedank0909/Assignment2_VedankPatel_300860092.git"
   },
   "keywords": [
     "NodeJS",
@@ -36,9 +36,9 @@
   "author": "Vedank Patel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Vedank0909/V_assignmnet1/issues"
+    "url": "https://github.com/Vedank0909/Assignment2_VedankPatel_300860092/issues"
   },
-  "homepage": "https://github.com/Vedank0909/V_assignmnet1#readme",
+  "homepage": "https://github.com/Vedank0909/Assignment2_VedankPatel_300860092#readme",
   "description": "",
   "devDependencies": {
     "@types/connect-flash": "0.0.31",
